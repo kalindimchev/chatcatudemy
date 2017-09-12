@@ -1,0 +1,36 @@
+{
+  "name": "chatcat",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "4.4.2"
+  },
+  "dependencies": {
+    "connect-mongo": "1.1.0",
+    "ejs": "2.3.4",
+    "express": "4.13.3",
+    "express-session": "1.12.1",
+    "heroku": "^0.2.0",
+    "heroku-apps": "1.2.3",
+    "heroku-cli-addons": "0.2.0",
+    "heroku-fork": "4.1.1",
+    "heroku-git": "2.4.5",
+    "heroku-local": "4.1.6",
+    "heroku-run": "2.9.2",
+    "heroku-spaces": "2.0.13",
+    "heroku-status": "2.1.0",
+    "mongoose": "4.3.1",
+    "passport": "0.3.2",
+    "passport-facebook": "2.0.0",
+    "passport-twitter": "1.0.3",
+    "redis": "2.4.2",
+    "socket.io": "1.4.5",
+    "socket.io-redis": "1.0.0"
+  }
+}

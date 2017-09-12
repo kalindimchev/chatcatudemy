@@ -3,4 +3,3 @@ node_modules
 
 # dev.json
 app/config/development.json
-/node_modules
